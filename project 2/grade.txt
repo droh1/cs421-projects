@@ -1,0 +1,40 @@
+CMSC 421 Project 2 Grade
+Total Possible Points: 100
+
+Student	Email	Github Username
+Daniel Roh	droh1@umbc.edu	droh1
+
+------------------------------------------------------------------
+General                                        
+    - Kernel successfully compiles                            :  0/5
+    - Tests                                                   : 0/15
+    - Initial design document                                 : 15/15
+    - Final design document                                   : 20/20
+------------------------------------------------------------------
+System Calls
+    - Block                                                  : 10/10
+    - Unblock                                                : 10/10
+    - Count                                                  : 10/10
+------------------------------------------------------------------
+Kernel Intergration
+    - Can intercept a system call to block it                 : 7/7
+------------------------------------------------------------------
+Userspace Programs
+    - Block                                                   : 1/2
+    - Unblock                                                 : 1/2
+    - Count                                                   : 1/2
+    - Run                                                     : 0/2
+------------------------------------------------------------------
+Project Grade                                                 :
+Late penalty, if applicable                                   : 
+Misc. penalty                                                 : 
+------------------------------------------------------------------
+
+Final Project 2 Grade                                         : 80/100
+
+Comments from the TA:
+* Kernel did not compile
+* Userspace programs don't follow specification
+* I'm not sure what the linking issue was, but your project looks pretty good otherwise
+
+------------------------------------------------------------------
