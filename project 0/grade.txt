@@ -1,0 +1,45 @@
+CMSC 421 Homework 1 Grade
+Total Possible Points: 50
+
+Student	Email	Github Username
+Daniel Roh	droh1@umbc.edu	droh1
+
+Simple Shell
+
+------------------------------------------------------------------
+Using Makefile                                                : 3/3 
+Code compiles without errors                                  : 5/7
+------------------------------------------------------------------
+General                                        
+    - Can handle fixed input                                  : 4/4
+    - Can handle arbitrary length                             : 6/6
+	- All test cases passed                                   : 8/8
+------------------------------------------------------------------
+Fork
+    - Forks properly                                          : 4/4
+------------------------------------------------------------------
+Exec
+    - Formats exec arguments correctly                        : 3/3
+    - Calls appropriate exec function                         : 2/2
+    - Handles exec errors                                     : 5/5
+------------------------------------------------------------------
+Memory Management
+    - Frees memory correctly                                  : 5/5
+    - Has no invalid reads or writes (valgrind)               : 0/3
+------------------------------------------------------------------
+Questions
+	- Question 1                                              : 5/5
+	- Question 2                                              : 5/5
+	- Question 3                                              : 5/5
+------------------------------------------------------------------
+Late penalty, if applicable                                   : 
+------------------------------------------------------------------
+
+Simple Shell:                                                 : 45/50             
+Questions:                                                    : 15/15
+Final Homework 1 Grade                                        : 46.5
+
+Note: The shell is graded out of 50 points but is worth 35 out of the total 50 for homework 1.
+
+Comments from the TA: Missing #include <sys/types.h>
+---------------------
