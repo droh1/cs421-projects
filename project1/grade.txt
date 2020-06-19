@@ -1,0 +1,38 @@
+CMSC 421 Project 1 Grade
+Total Possible Points: 100
+
+Student	Email	Github Username
+Daniel Roh	droh1@umbc.edu	droh1
+
+------------------------------------------------------------------
+General                                        
+    - Root Makefile and additional Makefiles written properly : 5/5
+    - Kernel successfully compiles                            : 0/5
+    - Tests                                                   : 15/20
+	- Skiplist Functionality                                  : 10/10
+------------------------------------------------------------------
+Mailbox Management
+    - Create & Destroy                                        : 10/10
+    - Send & Receive                                          : 10/10
+    - Init & Shutdown                                         : 10/10
+	- Count                                                   : 2/5
+	- Length                                                  : 2/5
+------------------------------------------------------------------
+ACL
+    - ACL System call implementation                          : 5/5
+    - ACL correctly used in other system calls                : 2/5
+------------------------------------------------------------------
+Locking
+	- Locking implemented                                     : 0/10
+------------------------------------------------------------------
+Late penalty, if applicable                                   : 
+Misc. penalty                                                 : 
+------------------------------------------------------------------
+
+Final Project 1 Grade                                        : 71/100
+
+Comments from the TA:
+Some functions returning 0 on Success when they should return an actual value (count & length)
+Points given for test cases that would have been likely to pass
+
+------------------------------------------------------------------
